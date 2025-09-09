@@ -58,6 +58,20 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "githubcopilot",
+      "title": "Building with GitHub Copilot",
+      "description": "Learn how to use GitHub Copilot to accelerate your coding workflow and build a small project.",
+      "path": "assignments/githubcopilot",
+      "dueDate": "2025-09-16",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
